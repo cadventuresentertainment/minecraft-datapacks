@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "min_format": [88, 0],
+    "max_format": [88, 255],
+    "description": [
+      "Adds cobbled deepslate recipes to the crafting table"
+    ],
+    "meta": {
+      "authors": ["BRITISHConnah"],
+      "modified": "2025-11-27",
+      "version": "1.21.10"
+    }
+  }
+}
