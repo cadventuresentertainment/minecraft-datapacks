@@ -1,4 +1,5 @@
 # Cobbled Deepslate Recipes
+This datapack adds four recipes for the dispenser, dropper, piston and observer by using cobbled deepslate as another option.
 |Added recipes|Notes|
 |-|-|
 |![recipe](https://i.ibb.co/qLFCyfqc/cobbled-deepslate-dispenser.png)||
