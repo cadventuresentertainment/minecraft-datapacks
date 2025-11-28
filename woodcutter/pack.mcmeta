@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "min_format": [88, 0],
+    "max_format": [88, 255],
+    "description": [
+      "Adds wood block recipes to the stonecutter"
+    ],
+    "meta": {
+      "authors": ["BRITISHConnah"],
+      "modified": "2025-11-28",
+      "version": "1.21.10"
+    }
+  }
+}
