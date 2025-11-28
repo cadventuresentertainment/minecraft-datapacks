@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:polished_blackstone_button",
+  "result": {
+    "count": 1,
+    "id": "minecraft:polished_blackstone_slab"
+  }
+}
