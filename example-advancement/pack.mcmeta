@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "min_format": [88, 0],
+    "max_format": [88, 255],
+    "description": [
+      "Example pack for creating custom advancements"
+    ],
+    "meta": {
+      "authors": ["BRITISHConnah"],
+      "modified": "2025-11-28",
+      "version": "1.21.10"
+    }
+  }
+}
