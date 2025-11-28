@@ -1,4 +1,5 @@
 # Blackstone Recipes
+This datapack adds four recipes for the dispenser, dropper, piston and observer by using blackstone instead of cobblestone.
 |Added recipes|Notes|
 |-|-|
 |![recipe](https://i.ibb.co/Zpr5x045/blackstone-dispenser.png)||
