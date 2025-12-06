@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "min_format": [88, 0],
+    "max_format": [88, 255],
+    "description": [
+      "Adds missing cobbled deepslate recipes to match cobblestone recipes"
+    ],
+    "meta": {
+      "authors": ["britishconnah"],
+      "modified": "2025-12-05",
+      "version": "1.21.10"
+    }
+  }
+}
